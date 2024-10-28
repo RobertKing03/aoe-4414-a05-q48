@@ -1,4 +1,4 @@
-#conv_ops code
+#pool_ops code
 import sys
 import math
 
